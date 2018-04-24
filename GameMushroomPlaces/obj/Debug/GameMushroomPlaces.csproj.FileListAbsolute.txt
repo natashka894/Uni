@@ -1,0 +1,33 @@
+c:\users\наталия\documents\visual studio 2015\Projects\GameMushroomPlaces\GameMushroomPlaces\bin\Debug\GameMushroomPlaces.exe.config
+c:\users\наталия\documents\visual studio 2015\Projects\GameMushroomPlaces\GameMushroomPlaces\bin\Debug\GameMushroomPlaces.exe
+c:\users\наталия\documents\visual studio 2015\Projects\GameMushroomPlaces\GameMushroomPlaces\bin\Debug\GameMushroomPlaces.pdb
+c:\users\наталия\documents\visual studio 2015\Projects\GameMushroomPlaces\GameMushroomPlaces\obj\Debug\GameMushroomPlaces.View.resources
+c:\users\наталия\documents\visual studio 2015\Projects\GameMushroomPlaces\GameMushroomPlaces\obj\Debug\GameMushroomPlaces.Properties.Resources.resources
+c:\users\наталия\documents\visual studio 2015\Projects\GameMushroomPlaces\GameMushroomPlaces\obj\Debug\GameMushroomPlaces.csproj.GenerateResource.Cache
+c:\users\наталия\documents\visual studio 2015\Projects\GameMushroomPlaces\GameMushroomPlaces\obj\Debug\GameMushroomPlaces.exe
+c:\users\наталия\documents\visual studio 2015\Projects\GameMushroomPlaces\GameMushroomPlaces\obj\Debug\GameMushroomPlaces.pdb
+C:\Users\Наталия\Documents\Visual Studio 2015\Projects\GameMushroomPlaces\GameMushroomPlaces\obj\Debug\GameMushroomPlaces.g.resources
+C:\Users\Наталия\Documents\Visual Studio 2015\Projects\GameMushroomPlaces\GameMushroomPlaces\obj\Debug\GameMushroomPlaces.csprojResolveAssemblyReference.cache
+C:\Users\Наталия\Desktop\GameMushroomPlaces\GameMushroomPlaces\bin\Debug\GameMushroomPlaces.exe.config
+C:\Users\Наталия\Desktop\GameMushroomPlaces\GameMushroomPlaces\bin\Debug\GameMushroomPlaces.exe
+C:\Users\Наталия\Desktop\GameMushroomPlaces\GameMushroomPlaces\bin\Debug\GameMushroomPlaces.pdb
+C:\Users\Наталия\Desktop\GameMushroomPlaces\GameMushroomPlaces\obj\Debug\GameMushroomPlaces.g.resources
+C:\Users\Наталия\Desktop\GameMushroomPlaces\GameMushroomPlaces\obj\Debug\GameMushroomPlaces.View.resources
+C:\Users\Наталия\Desktop\GameMushroomPlaces\GameMushroomPlaces\obj\Debug\GameMushroomPlaces.Properties.Resources.resources
+C:\Users\Наталия\Desktop\GameMushroomPlaces\GameMushroomPlaces\obj\Debug\GameMushroomPlaces.csproj.GenerateResource.Cache
+C:\Users\Наталия\Desktop\GameMushroomPlaces\GameMushroomPlaces\obj\Debug\GameMushroomPlaces.exe
+C:\Users\Наталия\Desktop\GameMushroomPlaces\GameMushroomPlaces\obj\Debug\GameMushroomPlaces.pdb
+C:\Users\Наталия\Desktop\GameMushroomPlaces\GameMushroomPlaces\obj\Debug\GameMushroomPlaces.csprojResolveAssemblyReference.cache
+C:\Users\User\Desktop\GameMushroomPlaces\GameMushroomPlaces\bin\Debug\GameMushroomPlaces.exe.config
+C:\Users\User\Desktop\GameMushroomPlaces\GameMushroomPlaces\obj\Debug\GameMushroomPlaces.exe
+C:\Users\User\Desktop\GameMushroomPlaces\GameMushroomPlaces\obj\Debug\GameMushroomPlaces.pdb
+C:\Users\User\Desktop\GameMushroomPlaces\GameMushroomPlaces\bin\Debug\GameMushroomPlaces.exe
+C:\Users\User\Desktop\GameMushroomPlaces\GameMushroomPlaces\bin\Debug\GameMushroomPlaces.pdb
+C:\Users\User\Desktop\GameMushroomPlaces\GameMushroomPlaces\obj\Debug\GameMushroomPlaces.csprojResolveAssemblyReference.cache
+C:\Users\User\Desktop\GameMushroomPlaces\GameMushroomPlaces\obj\Debug\GameMushroomPlaces.g.resources
+C:\Users\User\Desktop\GameMushroomPlaces\GameMushroomPlaces\obj\Debug\GameMushroomPlaces.View.resources
+C:\Users\User\Desktop\GameMushroomPlaces\GameMushroomPlaces\obj\Debug\GameMushroomPlaces.Properties.Resources.resources
+C:\Users\User\Desktop\GameMushroomPlaces\GameMushroomPlaces\obj\Debug\GameMushroomPlaces.csproj.GenerateResource.Cache
+C:\Users\User\Desktop\GameMushroomPlaces\Uni\GameMushroomPlaces\bin\Debug\GameMushroomPlaces.exe.config
+C:\Users\User\Desktop\GameMushroomPlaces\Uni\GameMushroomPlaces\obj\Debug\GameMushroomPlaces.exe
+C:\Users\User\Desktop\GameMushroomPlaces\Uni\GameMushroomPlaces\obj\Debug\GameMushroomPlaces.pdb

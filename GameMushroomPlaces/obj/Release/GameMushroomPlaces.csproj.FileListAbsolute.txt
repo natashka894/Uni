@@ -1,0 +1,18 @@
+C:\Users\Наталия\Documents\Visual Studio 2015\Projects\GameMushroomPlaces\GameMushroomPlaces\bin\Release\GameMushroomPlaces.exe.config
+C:\Users\Наталия\Documents\Visual Studio 2015\Projects\GameMushroomPlaces\GameMushroomPlaces\bin\Release\GameMushroomPlaces.exe
+C:\Users\Наталия\Documents\Visual Studio 2015\Projects\GameMushroomPlaces\GameMushroomPlaces\bin\Release\GameMushroomPlaces.pdb
+C:\Users\Наталия\Documents\Visual Studio 2015\Projects\GameMushroomPlaces\GameMushroomPlaces\obj\Release\GameMushroomPlaces.g.resources
+C:\Users\Наталия\Documents\Visual Studio 2015\Projects\GameMushroomPlaces\GameMushroomPlaces\obj\Release\GameMushroomPlaces.View.resources
+C:\Users\Наталия\Documents\Visual Studio 2015\Projects\GameMushroomPlaces\GameMushroomPlaces\obj\Release\GameMushroomPlaces.Properties.Resources.resources
+C:\Users\Наталия\Documents\Visual Studio 2015\Projects\GameMushroomPlaces\GameMushroomPlaces\obj\Release\GameMushroomPlaces.csproj.GenerateResource.Cache
+C:\Users\Наталия\Documents\Visual Studio 2015\Projects\GameMushroomPlaces\GameMushroomPlaces\obj\Release\GameMushroomPlaces.exe
+C:\Users\Наталия\Documents\Visual Studio 2015\Projects\GameMushroomPlaces\GameMushroomPlaces\obj\Release\GameMushroomPlaces.pdb
+C:\Users\Наталия\Desktop\GameMushroomPlaces\GameMushroomPlaces\bin\Release\GameMushroomPlaces.exe.config
+C:\Users\Наталия\Desktop\GameMushroomPlaces\GameMushroomPlaces\obj\Release\GameMushroomPlaces.exe
+C:\Users\Наталия\Desktop\GameMushroomPlaces\GameMushroomPlaces\obj\Release\GameMushroomPlaces.pdb
+C:\Users\Наталия\Desktop\GameMushroomPlaces\GameMushroomPlaces\bin\Release\GameMushroomPlaces.exe
+C:\Users\Наталия\Desktop\GameMushroomPlaces\GameMushroomPlaces\bin\Release\GameMushroomPlaces.pdb
+C:\Users\Наталия\Desktop\GameMushroomPlaces\GameMushroomPlaces\obj\Release\GameMushroomPlaces.g.resources
+C:\Users\Наталия\Desktop\GameMushroomPlaces\GameMushroomPlaces\obj\Release\GameMushroomPlaces.View.resources
+C:\Users\Наталия\Desktop\GameMushroomPlaces\GameMushroomPlaces\obj\Release\GameMushroomPlaces.Properties.Resources.resources
+C:\Users\Наталия\Desktop\GameMushroomPlaces\GameMushroomPlaces\obj\Release\GameMushroomPlaces.csproj.GenerateResource.Cache
